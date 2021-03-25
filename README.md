@@ -1,2 +1,2 @@
 # DR-RMST
-Submitted to the Biometrical Journal
+Submitted to the Pharmaceutical Statistics
